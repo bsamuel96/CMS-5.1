@@ -1,0 +1,26 @@
+id,client_id,vehicle_id,date,status,observations,offer_number
+71,17ac390f-ea76-4944-bdb7-01088e9cacc9,54cb9d73-c52e-4d3a-b6ec-129b842874d4,2025-03-05,Ofertă (în așteptare),Client interested in multiple options,O1
+72,31b552de-0a52-45f7-b7f0-de1aca431911,5ffb64e7-67be-4982-b2bd-5dc2d58701df,2025-03-05,Ofertă (în așteptare),Client interested in multiple options,O2
+73,31b552de-0a52-45f7-b7f0-de1aca431911,d26aea02-927b-4e3d-a504-2f78716d9d24,2025-03-05,Ofertă (în așteptare),Client interested in multiple options,O3
+74,93cad7e0-9aa0-4c97-bf44-c18b0cbb7cbd,8525e6aa-fd7d-436c-b29b-e5380db62f70,2025-03-05,Ofertă (în așteptare),Client interested in multiple options,O4
+75,93cad7e0-9aa0-4c97-bf44-c18b0cbb7cbd,d0e906ab-c007-4cb4-90ba-b176b57b8e0e,2025-03-05,Ofertă (în așteptare),Client interested in multiple options,O5
+76,93cad7e0-9aa0-4c97-bf44-c18b0cbb7cbd,252da6a6-f3a4-4bfa-9935-2043ee2af641,2025-03-05,Ofertă (în așteptare),Client interested in multiple options,O6
+77,86617726-fc37-44d6-b9ac-68a9dfaee75f,568d3a0b-afa8-4852-a331-8f0ac8f8f9bb,2025-03-05,Ofertă (în așteptare),Client interested in multiple options,O7
+78,86617726-fc37-44d6-b9ac-68a9dfaee75f,baa96b5e-04c5-4e2d-8a55-3414cfa70956,2025-03-05,Ofertă (în așteptare),Client interested in multiple options,O8
+79,86617726-fc37-44d6-b9ac-68a9dfaee75f,a964de9d-c8f5-412c-9cc0-1103a0789ab8,2025-03-05,Ofertă (în așteptare),Client interested in multiple options,O9
+84,17ac390f-ea76-4944-bdb7-01088e9cacc9,54cb9d73-c52e-4d3a-b6ec-129b842874d4,2025-03-05,Ofertă (în așteptare),Client interested in multiple options,O11
+85,31b552de-0a52-45f7-b7f0-de1aca431911,5ffb64e7-67be-4982-b2bd-5dc2d58701df,2025-03-05,Ofertă (în așteptare),Client interested in multiple options,O12
+86,31b552de-0a52-45f7-b7f0-de1aca431911,d26aea02-927b-4e3d-a504-2f78716d9d24,2025-03-05,Ofertă (în așteptare),Client interested in multiple options,O13
+87,93cad7e0-9aa0-4c97-bf44-c18b0cbb7cbd,8525e6aa-fd7d-436c-b29b-e5380db62f70,2025-03-05,Ofertă (în așteptare),Client interested in multiple options,O14
+88,93cad7e0-9aa0-4c97-bf44-c18b0cbb7cbd,d0e906ab-c007-4cb4-90ba-b176b57b8e0e,2025-03-05,Ofertă (în așteptare),Client interested in multiple options,O15
+89,93cad7e0-9aa0-4c97-bf44-c18b0cbb7cbd,252da6a6-f3a4-4bfa-9935-2043ee2af641,2025-03-05,Ofertă (în așteptare),Client interested in multiple options,O16
+90,86617726-fc37-44d6-b9ac-68a9dfaee75f,568d3a0b-afa8-4852-a331-8f0ac8f8f9bb,2025-03-05,Ofertă (în așteptare),Client interested in multiple options,O17
+91,86617726-fc37-44d6-b9ac-68a9dfaee75f,baa96b5e-04c5-4e2d-8a55-3414cfa70956,2025-03-05,Ofertă (în așteptare),Client interested in multiple options,O18
+92,86617726-fc37-44d6-b9ac-68a9dfaee75f,a964de9d-c8f5-412c-9cc0-1103a0789ab8,2025-03-05,Ofertă (în așteptare),Client interested in multiple options,O19
+101,17ac390f-ea76-4944-bdb7-01088e9cacc9,,,Ofertă (în așteptare),Test,O20
+102,07c06025-d6fa-4b94-b1b2-cd678d6a9283,,,Ofertă (în așteptare),Test,O21
+103,0698dccc-e0c0-4545-b1d5-511d9bae46d2,,,Ofertă (în așteptare),,O22
+105,93cad7e0-9aa0-4c97-bf44-c18b0cbb7cbd,,2025-03-09,Ofertă (în așteptare),Test,O24
+106,07c06025-d6fa-4b94-b1b2-cd678d6a9283,90ae04e8-5beb-469c-8477-3659f0d14ae1,2025-03-09,Ofertă (în așteptare),This is a test,O25
+107,07c06025-d6fa-4b94-b1b2-cd678d6a9283,90ae04e8-5beb-469c-8477-3659f0d14ae1,2025-03-09,Ofertă (în așteptare),This is a test,O25
+108,0698dccc-e0c0-4545-b1d5-511d9bae46d2,,,Ofertă (în așteptare),Test,O26

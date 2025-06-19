@@ -1,0 +1,15 @@
+id,client_id,marca,model,an,vin,numar_inmatriculare,image_url
+252da6a6-f3a4-4bfa-9935-2043ee2af641,93cad7e0-9aa0-4c97-bf44-c18b0cbb7cbd,Hyundai,Elantra,2021,KMHD84LF,B-010-XYZ,
+3871b7cd-50ed-449a-8bb3-9c028c8ef301,93cad7e0-9aa0-4c97-bf44-c18b0cbb7cbd,MArca,Model,2025,976567890-9,CL 12 ASF,test.com
+54cb9d73-c52e-4d3a-b6ec-129b842874d4,17ac390f-ea76-4944-bdb7-01088e9cacc9,Volkswagen,Passat,2023,WVW123789,B-505-XYZ,
+568d3a0b-afa8-4852-a331-8f0ac8f8f9bb,86617726-fc37-44d6-b9ac-68a9dfaee75f,Kia,Optima,2020,KNAGM4AD,B-111-XYZ,
+5ffb64e7-67be-4982-b2bd-5dc2d58701df,31b552de-0a52-45f7-b7f0-de1aca431911,Toyota,Corolla,2020,JTDBR32E,B-606-XYZ,
+71707ce3-27bf-44d4-bad1-a520e1f7c538,0698dccc-e0c0-4545-b1d5-511d9bae46d2,Ferrari,Modelul cool,2020,654567890-98765,VS 14 BUF,None
+8525e6aa-fd7d-436c-b29b-e5380db62f70,93cad7e0-9aa0-4c97-bf44-c18b0cbb7cbd,Nissan,Altima,2022,1N4AL3AP,B-808-XYZ,
+90ae04e8-5beb-469c-8477-3659f0d14ae1,07c06025-d6fa-4b94-b1b2-cd678d6a9283,tesla,5,2025,90876546789,CL 12 ASD,No file chosen
+92862205-66f4-4938-94ba-7c69b986ba14,0698dccc-e0c0-4545-b1d5-511d9bae46d2,Test,Model,2025,876578909787,CL 57 BSC,None
+a964de9d-c8f5-412c-9cc0-1103a0789ab8,86617726-fc37-44d6-b9ac-68a9dfaee75f,Subaru,Impreza,2022,JF1GPAA6,B-313-XYZ,
+baa96b5e-04c5-4e2d-8a55-3414cfa70956,86617726-fc37-44d6-b9ac-68a9dfaee75f,Chevrolet,Malibu,2021,1G1ZD5ST,B-212-XYZ,
+bed58bd9-f71d-42fc-b479-7b23bddbf345,0698dccc-e0c0-4545-b1d5-511d9bae46d2,Dacia,Logsn,2025,6954053-993,CL 12 ASF,none
+d0e906ab-c007-4cb4-90ba-b176b57b8e0e,93cad7e0-9aa0-4c97-bf44-c18b0cbb7cbd,Mazda,3,2023,JM1BPACL,B-909-XYZ,
+d26aea02-927b-4e3d-a504-2f78716d9d24,31b552de-0a52-45f7-b7f0-de1aca431911,Honda,Civic,2021,2HGFB2F5,B-707-XYZ,
